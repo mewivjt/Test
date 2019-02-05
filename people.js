@@ -1,4 +1,4 @@
-{name: john,
+{john,
 age:19,
 gender: male},
 {name: banle,
