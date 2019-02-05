@@ -1,4 +1,4 @@
-{name:'john',
+[{name:'john',
 age:18,
 gender:'male'},
 {name:'john',
@@ -11,4 +11,4 @@ gender:'male'},{name:'john',
 age:18,
 gender:'male'},{name:'john',
 age:18,
-gender:'male'},
+gender:'male'}]
